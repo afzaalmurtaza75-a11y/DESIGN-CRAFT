@@ -1,0 +1,6 @@
+{
+  "name": "DesignCraft",
+  "description": "A premier marketplace and portfolio platform where graphic and web designers showcase their work and clients discover top creative talent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
